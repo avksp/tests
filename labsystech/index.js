@@ -148,7 +148,6 @@ function deserialize(str) {
 	return arr;
 }
 
-// Экспортируем функции
 module.exports = {
 	serialize,
 	deserialize
