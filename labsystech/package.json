@@ -1,0 +1,23 @@
+{
+  "name": "labsystech",
+  "version": "1.0.0",
+  "description": "Test for labsystech",
+  "homepage": "https://github.com/avksp/tests#readme",
+  "bugs": {
+    "url": "https://github.com/avksp/tests/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avksp/tests.git"
+  },
+  "license": "ISC",
+  "author": "Andrey V",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
